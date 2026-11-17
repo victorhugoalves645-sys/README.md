@@ -11,19 +11,19 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Olá! Sou estudante de programação e tenho interesse em desenvolvimento web e cibersegurança.
 
-- 💻 Estudando desenvolvimento de software.
-- 🔐 Interessado em Cybersecurity (Blue Team).
-- 🐘 Aprendendo PHP e desenvolvimento web.
-- 🐧 Explorando o ambiente Linux.
-- 🚀 Desenvolvendo projetos para aprimorar minhas habilidades.
+-  Estudando desenvolvimento de software.
+-  Interessado em Cybersecurity (Blue Team).
+-  Aprendendo PHP e desenvolvimento web.
+-  Explorando o ambiente Linux.
+-  Desenvolvendo projetos para aprimorar minhas habilidades.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 <div">
 
@@ -33,7 +33,7 @@ Olá! Sou estudante de programação e tenho interesse em desenvolvimento web e 
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 - Aprofundar meus conhecimentos em PHP.
 - Aprender mais sobre redes e sistemas operacionais.
