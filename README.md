@@ -3,11 +3,9 @@
 
 #  Derpy
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=550&lines=Programming+Student;Cybersecurity+Enthusiast;PHP+Developer;Web+Development;Learning+Linux;Future+Security+Analyst" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FF&=true&v=true&width=550&lines=Programming+Student;Cybersecurity+Enthusiast;PHP+Developer;Web+Development;Learning+Linux;Future+Security+Analyst" alt="Typing SVG" />
 
 <br>
-
-**Explorando o mundo da programação e da segurança da informação.**
 
 </div>
 
