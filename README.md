@@ -1,7 +1,7 @@
 
-<div align="center">
+<div>
 
-# ⚡ Derpy
+#  Derpy
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=550&lines=Programming+Student;Cybersecurity+Enthusiast;PHP+Developer;Web+Development;Learning+Linux;Future+Security+Analyst" alt="Typing SVG" />
 
@@ -27,7 +27,7 @@ Olá! Sou estudante de programação e tenho interesse em desenvolvimento web e 
 
 ## 🛠️ Tecnologias e ferramentas
 
-<div align="center">
+<div">
 
 <img src="https://skillicons.dev/icons?i=php,html,css,js,mysql,linux,git,github,vscode,docker&theme=dark" />
 
