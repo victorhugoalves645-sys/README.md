@@ -25,7 +25,7 @@ Olá! Sou estudante de programação e tenho interesse em desenvolvimento web e 
 
 ## Tecnologias e ferramentas
 
-<div">
+<div>
 
 <img src="https://skillicons.dev/icons?i=php,html,css,js,mysql,linux,git,github,vscode,docker&theme=dark" />
 
